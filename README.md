@@ -2,7 +2,7 @@
 
 This project models the **optimal racing line** around the iconic **Monaco F1 circuit**, using mathematical tools such as **Pontryagin’s Maximum Principle** and a **data assimilation-based control method**. Our objective: **minimize lap time** by computing the fastest trajectory through the track's tight and complex turns.
 
-## 🧠 Overview
+##  Overview
 
 Formula 1 drivers are constantly seeking marginal gains — and the racing line plays a critical role. Using tools from the **calculus of variations**, we simulate and optimize a racing line that balances speed and control.
 
@@ -26,9 +26,8 @@ A **Stanley Controller** compares the current trajectory to a lookahead target, 
 
 📹 Check out a **demo of the data assimilation method** below:
 
-https://github.com/user-attachments/assets/959b8532-fe2e-41dd-b31f-7ae7390b3e2d
 
-
+https://github.com/user-attachments/assets/0565c737-eeda-4757-83ee-12f33c1b3983
 
 
 
@@ -45,19 +44,12 @@ We're working on combining the **Data Assimilation method** with **PMP**, aiming
 
 ---
 
-### 📁 Structure
-
-- `src/` – Core simulation code  
-- `data/` – Monaco GPS coordinates  
-- `notebooks/` – Exploratory tests and visualizations  
-- `video/` – (Optional) Include your demo if it's local
-
----
-
 ### 🤝 Contributors
 
-- Trevor – Cost Function & Optimization  
-- [Add others here...]
+- Nathan Todd
+- Trevor Larsen
+- Cole Edgren
+- Brandon Waits
 
 ---
 
